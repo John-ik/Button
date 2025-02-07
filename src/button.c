@@ -1,7 +1,6 @@
 #include "button.h"
 #include "stddef.h"
 
-// #include "debug.h"
 
 uint8_t btn_pollBtn(VirtButton *btn, uint8_t s);
 
